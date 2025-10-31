@@ -1,0 +1,1060 @@
+{
+  "extracted_at": "20250602_162754",
+  "tree": [
+    {
+      "node_type": "L0",
+      "name": "Акциялар",
+      "url": "https://www.samsung.com/kz_kz/offer/",
+      "analytics": "offer",
+      "url_name": "Акциялар",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 Ultra",
+          "url": "https://www.samsung.com/kz_kz/smartphones/galaxy-s25-ultra/buy/",
+          "analytics": "galaxy s25 ultra",
+          "url_name": "Galaxy S25 Ultra",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 Edge",
+          "url": "https://www.samsung.com/uk/smartphones/galaxy-s25-edge/buy/",
+          "analytics": "galaxy s25 edge",
+          "url_name": "Galaxy S25 Edge",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 | S25+",
+          "url": "https://www.samsung.com/kz_kz/smartphones/galaxy-s25/buy/",
+          "analytics": "galaxy s25 | s25+",
+          "url_name": "Galaxy S25 | S25+",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Fold6",
+          "url": "https://www.samsung.com/kz_kz/smartphones/galaxy-z-fold6/buy/",
+          "analytics": "galaxy fold6",
+          "url_name": "Galaxy Fold6",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Flip6",
+          "url": "https://www.samsung.com/kz_kz/smartphones/galaxy-z-flip6/buy/",
+          "analytics": "galaxy flip6",
+          "url_name": "Galaxy Flip6",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Tab S10 Series",
+          "url": "https://www.samsung.com/kz_kz/tablets/galaxy-tab-s/galaxy-tab-s10-plus-silver-256gb-sm-x826bzsrskz/buy/",
+          "analytics": "galaxy tab s10 series",
+          "url_name": "Galaxy Tab S10 Series",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch Ultra",
+          "url": "https://www.samsung.com/kz_kz/watches/galaxy-watch/galaxy-watch-ultra-titanium-gray-lte-sm-l705fdaaskz/",
+          "analytics": "galaxy watch ultra",
+          "url_name": "Galaxy Watch Ultra",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds3 Pro",
+          "url": "https://www.samsung.com/kz_kz/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaacis/",
+          "analytics": "galaxy buds3 pro",
+          "url_name": "Galaxy Buds3 Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book5 Pro",
+          "url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-pro/buy/?modelCode=NP960XHA-KG2UK",
+          "analytics": "Galaxy Book5 Pro",
+          "url_name": "Galaxy Book5 Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Neo QLED 8K TV",
+          "url": "https://www.samsung.com/kz_kz/tvs/qled-tv/qn900d-75-inch-neo-qled-8k-tizen-os-smart-tv-qe75qn900duxce/",
+          "analytics": "neo qled 8k tv",
+          "url_name": "Neo QLED 8K TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Frame Pro",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-frame/ls03fw-75-inch-the-frame-pro-neo-qled-4k-vision-ai-smart-tv-black-qe75ls03fwuxxu/",
+          "analytics": "The Frame Pro",
+          "url_name": "The Frame Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Q-series Soundbar",
+          "url": "https://www.samsung.com/uk/audio-devices/soundbar/q990f-q-series-soundbar-with-subwoofer-and-rear-speakers-black-hw-q990f-xu/",
+          "analytics": "Q-series Soundbar",
+          "url_name": "Q-series Soundbar",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Odyssey OLED G8",
+          "url": "https://www.samsung.com/kz_kz/monitors/gaming/odyssey-oled-g8-g80sd-32-inch-240hz-oled-uhd-ls32dg800sixci/",
+          "analytics": "odyssey oled g8",
+          "url_name": "Odyssey OLED G8",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Samsung Bespoke SpaceMax™",
+          "url": "https://www.samsung.com/uk/refrigerators/bottom-mount-freezer/bottom-mount-freezer-with-smartthings-ai-energy-mo-387l-black-rb38c607ab1-eu/",
+          "analytics": "Samsung Bespoke SpaceMax™",
+          "url_name": "Samsung Bespoke SpaceMax™",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Samsung Series 8 AI Energy",
+          "url": "https://www.samsung.com/uk/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-40-percent-extra-energy-efficiency-ai-ecobubble-11kg-black-ww11db8b95gbu1/",
+          "analytics": "Samsung Series 8 AI Energy",
+          "url_name": "Samsung Series 8 AI Energy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy Trade-in",
+          "url": "https://www.samsung.com/kz_kz/smartphones/trade-in/",
+          "analytics": "galaxy trade in",
+          "url_name": "Galaxy Trade-in",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Тегін орнату",
+          "url": "https://www.samsung.com/kz_kz/installation/",
+          "analytics": "free installation",
+          "url_name": "Тегін орнату",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Curated Collections",
+          "url": "https://www.samsung.com/uk/curated-collections/",
+          "analytics": "curated collections",
+          "url_name": "Curated Collections",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "SmartThings",
+          "url": "https://www.samsung.com/kz_kz/smartthings/",
+          "analytics": "smartthings",
+          "url_name": "SmartThings",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "AI ашыңыз",
+          "url": "https://www.samsung.com/kz_kz/ai-products/",
+          "analytics": "discover ai",
+          "url_name": "AI ашыңыз",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Студенттер үшін",
+          "url": "https://www.samsung.com/kz_kz/offer/student-discounts/",
+          "analytics": "for student and youth",
+          "url_name": "Студенттер үшін",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Серіктестердің қызметкерлеріне",
+          "url": "https://www.samsung.com/kz_kz/offer/corporate-epp/",
+          "analytics": "corporate epp",
+          "url_name": "Серіктестердің қызметкерлеріне",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Rewards",
+          "url": "https://www.samsung.com/kz_kz/rewards/",
+          "analytics": "samsung rewards",
+          "url_name": "Samsung Rewards",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Ұялы құрылғылар",
+      "url": "https://www.samsung.com/kz_kz/smartphones/all-smartphones/",
+      "analytics": "mobile",
+      "url_name": "Ұялы құрылғылар",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy смартфондары",
+          "url": "https://www.samsung.com/kz_kz/smartphones/all-smartphones/",
+          "analytics": "galaxy smartphone",
+          "url_name": "Galaxy смартфондары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Tab",
+          "url": "https://www.samsung.com/kz_kz/tablets/all-tablets/",
+          "analytics": "galaxy tab",
+          "url_name": "Galaxy Tab",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book",
+          "url": "https://www.samsung.com/uk/computers/all-computers/?galaxy-book-ultra+galaxy-book-pro-360+galaxy-book-pro+14i04+14i05+14i07",
+          "analytics": "galaxy  book",
+          "url_name": "Galaxy Book",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch",
+          "url": "https://www.samsung.com/kz_kz/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "Galaxy Watch",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds",
+          "url": "https://www.samsung.com/kz_kz/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Аксессуарлар",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories",
+          "analytics": "galaxy accessories",
+          "url_name": "Аксессуарлар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Certified Renewed",
+          "url": "https://www.samsung.com/uk/certified-re-newed-phones/",
+          "analytics": "certified renewed",
+          "url_name": "Certified Renewed",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Ұялы құрылғыларды ашыныз",
+          "url": "https://www.samsung.com/kz_kz/mobile/",
+          "analytics": "discover mobile",
+          "url_name": "Ұялы құрылғыларды ашыныз",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy AI",
+          "url": "https://www.samsung.com/kz_kz/galaxy-ai/",
+          "analytics": "galaxy ai",
+          "url_name": "Galaxy AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "One UI",
+          "url": "https://www.samsung.com/kz_kz/one-ui/",
+          "analytics": "one ui",
+          "url_name": "One UI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/kz_kz/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Қолданбалар мен қызметтер",
+          "url": "https://www.samsung.com/kz_kz/apps/",
+          "analytics": "apps and service",
+          "url_name": "Қолданбалар мен қызметтер",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Galaxy",
+          "url": "https://www.samsung.com/kz_kz/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "Неге Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy-ге ауысу",
+          "url": "https://www.samsung.com/kz_kz/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Galaxy-ге ауысу",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/kz_kz/smartphones/trade-in/",
+          "analytics": "samsung trade in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "ТД және Аудио",
+      "url": "https://www.samsung.com/kz_kz/tvs/all-tvs/",
+      "analytics": "tv and av",
+      "url_name": "ТД және Аудио",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Neo QLED",
+          "url": "https://www.samsung.com/kz_kz/tvs/neo-qled-tvs/",
+          "analytics": "neo qled",
+          "url_name": "Neo QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "OLED",
+          "url": "https://www.samsung.com/kz_kz/tvs/oled-tvs/",
+          "analytics": "oled",
+          "url_name": "OLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "QLED",
+          "url": "https://www.samsung.com/kz_kz/tvs/qled-tv/",
+          "analytics": "qled",
+          "url_name": "QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Crystal UHD",
+          "url": "https://www.samsung.com/kz_kz/tvs/all-tvs/?crystal-uhd",
+          "analytics": "crystal uhd",
+          "url_name": "Crystal UHD",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Frame",
+          "url": "https://www.samsung.com/kz_kz/lifestyle-tvs/the-frame/",
+          "analytics": "the frame",
+          "url_name": "The Frame",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Serif",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-serif/",
+          "analytics": "the serif",
+          "url_name": "The Serif",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Terrace",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-terrace/",
+          "analytics": "the terrace",
+          "url_name": "The Terrace",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Sero",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-sero/",
+          "analytics": "the sero",
+          "url_name": "The Sero",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Дыбыс құрылғылары",
+          "url": "https://www.samsung.com/kz_kz/audio-devices/all-audio-devices/",
+          "analytics": "sound devices",
+          "url_name": "Дыбыс құрылғылары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Проекторлар",
+          "url": "https://www.samsung.com/kz_kz/projectors/all-projectors/",
+          "analytics": "projectors",
+          "url_name": "Проекторлар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Теледидар аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "Теледидар аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Audio Accessories",
+          "url": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Audio Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Көлемі бойынша теледидарлар",
+          "url": "https://www.samsung.com/kz_kz/tvs/98-inch-tvs/",
+          "analytics": "tvs by sizes",
+          "url_name": "Көлемі бойынша теледидарлар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "98\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/all-tvs/?98",
+          "analytics": "98 inch",
+          "url_name": "98\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "83\" и 85\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/85-inch-tvs/",
+          "analytics": "83 and 85 inch",
+          "url_name": "83\" и 85\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "75\" и 77\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/75-inch-tvs/",
+          "analytics": "75 and 77 inch",
+          "url_name": "75\" и 77\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "65\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/65-inch-tvs/",
+          "analytics": "65 inch",
+          "url_name": "65\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "55\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/55-inch-tvs/",
+          "analytics": "55 inch",
+          "url_name": "55\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "48\" и 50\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/50-inch-tvs/",
+          "analytics": "48 and 50 inch",
+          "url_name": "48\" и 50\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "43\"",
+          "url": "https://www.samsung.com/kz_kz/tvs/43-inch-tvs/",
+          "analytics": "43 inch",
+          "url_name": "43\"",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "32 inch or smaller",
+          "url": "https://www.samsung.com/uk/tvs/all-tvs/?32-and-under",
+          "analytics": "32 inch or smaller",
+          "url_name": "",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Ажыратымдылық бойынша ТД",
+          "url": "https://www.samsung.com/kz_kz/tvs/8k-tv/",
+          "analytics": "tvs by resolution",
+          "url_name": "Ажыратымдылық бойынша ТД",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "8К ТД",
+          "url": "https://www.samsung.com/kz_kz/tvs/8k-tv/",
+          "analytics": "8k tvs",
+          "url_name": "8К ТД",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "4К ТД",
+          "url": "https://www.samsung.com/kz_kz/tvs/uhd-4k-tv/",
+          "analytics": "4k tvs",
+          "url_name": "4К ТД",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Full HD/HD TVs",
+          "url": "https://www.samsung.com/uk/tvs/full-hd-tv/",
+          "analytics": "full hd hd tvs",
+          "url_name": "",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Vision AI",
+          "url": "https://www.samsung.com/kz_kz/tvs/vision-ai-tv",
+          "analytics": "samsung vision ai",
+          "url_name": "Samsung Vision AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Samsung ТД",
+          "url": "https://www.samsung.com/kz_kz/tvs/why-samsung-tv/",
+          "analytics": "why samsung tv",
+          "url_name": "Неге Samsung ТД",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Samsung OLED",
+          "url": "https://www.samsung.com/kz_kz/tvs/oled-tv/highlights/",
+          "analytics": "why oled",
+          "url_name": "Неге Samsung OLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Samsung QLED",
+          "url": "https://www.samsung.com/kz_kz/tvs/qled-tv/highlights/",
+          "analytics": "why neo qled",
+          "url_name": "Неге Samsung QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге The Frame",
+          "url": "https://www.samsung.com/kz_kz/lifestyle-tvs/the-frame/highlights/",
+          "analytics": "why the frame",
+          "url_name": "Неге The Frame",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "ТД таңдауға көмектесу",
+          "url": "https://www.samsung.com/kz_kz/tvs/help-me-choose/",
+          "analytics": "help choose my tv",
+          "url_name": "ТД таңдауға көмектесу",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Саундбар таңдауға көмектесу",
+          "url": "https://www.samsung.com/kz_kz/audio-devices/help-me-choose/",
+          "analytics": "help choose my sound device",
+          "url_name": "Саундбар таңдауға көмектесу",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "MICRO LED",
+          "url": "https://www.samsung.com/kz_kz/tvs/micro-led/highlights/",
+          "analytics": "micro led",
+          "url_name": "MICRO LED",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Құрылғылар",
+      "url": "https://www.samsung.com/kz_kz/refrigerators/all-refrigerators/",
+      "analytics": "appliances",
+      "url_name": "Құрылғылар",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Тоңазытқыштар",
+          "url": "https://www.samsung.com/kz_kz/refrigerators/all-refrigerators/",
+          "analytics": "refrigerators",
+          "url_name": "Тоңазытқыштар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Пештер",
+          "url": "https://www.samsung.com/kz_kz/cooking-appliances/ovens/",
+          "analytics": "ovens",
+          "url_name": "Пештер",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Плиталар",
+          "url": "https://www.samsung.com/kz_kz/cooking-appliances/hobs/",
+          "analytics": "hobs",
+          "url_name": "Плиталар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Сорғыштар",
+          "url": "https://www.samsung.com/kz_kz/cooking-appliances/hoods/",
+          "analytics": "hoods",
+          "url_name": "Сорғыштар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Микротолқынды пештер",
+          "url": "https://www.samsung.com/kz_kz/microwave-ovens/all-microwave-ovens/",
+          "analytics": "microwaves",
+          "url_name": "Микротолқынды пештер",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Ыдыс жуғыштар",
+          "url": "https://www.samsung.com/kz_kz/dishwashers/all-dishwashers/",
+          "analytics": "dishwashers",
+          "url_name": "Ыдыс жуғыштар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Кір жуу және кептіргіш машиналары",
+          "url": "https://www.samsung.com/kz_kz/washers-and-dryers/all-washers-and-dryers/",
+          "analytics": "laundry",
+          "url_name": "Кір жуу және кептіргіш машиналары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Jet Stick шаңсорғыштары",
+          "url": "https://www.samsung.com/kz_kz/vacuum-cleaners/all-vacuum-cleaners/?wireless",
+          "analytics": "jet stick vacuums",
+          "url_name": "Jet Stick шаңсорғыштары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Jet Bot робот-пылесосы",
+          "url": "https://www.samsung.com/kz_kz/vacuum-cleaners/all-vacuum-cleaners/?robot/",
+          "analytics": "jet bot robot vacuums",
+          "url_name": "Jet Bot робот-пылесосы",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Кондиционерлер",
+          "url": "https://www.samsung.com/kz_kz/air-conditioners/all-air-conditioners/",
+          "analytics": "air conditioners",
+          "url_name": "Кондиционерлер",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Air Purifier",
+          "url": "https://www.samsung.com/vn/air-care/all-air-care/",
+          "analytics": "air purifier",
+          "url_name": "Air Purifier",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Тұрмыстық техникаға аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/home-appliance-accessories/all-home-appliance-accessories/",
+          "analytics": "appliances accessories",
+          "url_name": "Тұрмыстық техникаға аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Добро пожаловать в Bespoke AI",
+          "url": "https://www.samsung.com/kz_kz/home-appliances/bespoke-home/",
+          "analytics": "bespoke ai",
+          "url_name": "Добро пожаловать в Bespoke AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Возможности Bespoke AI",
+          "url": "https://www.samsung.com/kz_kz/home-appliances/bespoke-ai-smartthings/",
+          "analytics": "smart forward",
+          "url_name": "Возможности Bespoke AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "AI Energy Saving",
+          "url": "https://www.samsung.com/uk/home-appliances/ai-energy-saving/",
+          "analytics": "ai energy saving",
+          "url_name": "AI Energy Saving",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Поему бытовая техника Samsung",
+          "url": "https://www.samsung.com/kz_kz/home-appliances/why-samsung-appliances/",
+          "analytics": "why samsung appliances",
+          "url_name": "Поему бытовая техника Samsung",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Refrigerator Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/what-is-the-best-type-of-fridge-freezer/",
+          "analytics": "refrigerator buying guide",
+          "url_name": "Refrigerator Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Laundry Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/what-size-washing-machine-do-i-need/",
+          "analytics": "laundry buying guide",
+          "url_name": "Laundry Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Vacuum Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/learn/vacuum-cleaners/how-to-choose-a-vacuum-cleaner/",
+          "analytics": "vacuum buying guide",
+          "url_name": "Vacuum Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Cooking Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/",
+          "analytics": "cooking buying guide",
+          "url_name": "Cooking Buying Guide",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "IT",
+      "url": "https://www.samsung.com/kz_kz/monitors/all-monitors/",
+      "analytics": "it",
+      "url_name": "IT",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book & Laptop",
+          "url": "https://www.samsung.com/uk/computers/all-computers/",
+          "analytics": "galaxy book & laptop",
+          "url_name": "Galaxy Book & Laptop",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Мониторлар",
+          "url": "https://www.samsung.com/kz_kz/monitors/all-monitors/",
+          "analytics": "monitors",
+          "url_name": "Мониторлар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Жад және жинақтағыштар",
+          "url": "https://www.samsung.com/kz_kz/memory-storage/all-memory-storage/",
+          "analytics": "memory and storage",
+          "url_name": "Жад және жинақтағыштар",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Laptop Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "laptop accessories",
+          "url_name": "Laptop Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Copilot+ PCs",
+          "url": "https://www.samsung.com/uk/computers/galaxy-book-copilot-plus-pcs/",
+          "analytics": "copliot + pcs",
+          "url_name": "Copilot+ PCs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Odyssey ойын мониторы",
+          "url": "https://www.samsung.com/kz_kz/monitors/odyssey/",
+          "analytics": "Why Odyssey Gaming Monitor",
+          "url_name": "Неге Odyssey ойын мониторы",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why ViewFinity High Resolution",
+          "url": "https://www.samsung.com/uk/monitors/viewfinity-high-resolution-monitor/",
+          "analytics": "Why ViewFinity High Resolution",
+          "url_name": "Why ViewFinity High Resolution",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Smart Monitor",
+          "url": "https://www.samsung.com/uk/monitors/smart-monitor/",
+          "analytics": "Why Smart Monitor",
+          "url_name": "Why Smart Monitor",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Help choose my Monitor",
+          "url": "https://www.samsung.com/uk/monitors/help-me-choose/",
+          "analytics": "Help choose my Monitor",
+          "url_name": "Help choose my Monitor",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Monitor Buying Guide",
+          "url": "https://www.samsung.com/uk/monitors/monitor-buying-guide/",
+          "analytics": "Monitor Buying Guide",
+          "url_name": "Monitor Buying Guide",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Тасымал құрылғылар",
+      "url": "https://www.samsung.com/kz_kz/watches/all-watches/",
+      "analytics": "wearables",
+      "url_name": "Тасымал құрылғылар",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch",
+          "url": "https://www.samsung.com/kz_kz/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "Galaxy Watch",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds",
+          "url": "https://www.samsung.com/kz_kz/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Тасымал құрылғылар аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories/?wearables",
+          "analytics": "wearables accessories",
+          "url_name": "Тасымал құрылғылар аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/kz_kz/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy AI",
+          "url": "https://www.samsung.com/kz_kz/galaxy-ai/",
+          "analytics": "galaxy ai",
+          "url_name": "Galaxy AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Қолданбалар мен қызметтер",
+          "url": "https://www.samsung.com/kz_kz/apps/",
+          "analytics": "apps and service",
+          "url_name": "Қолданбалар мен қызметтер",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Неге Galaxy",
+          "url": "https://www.samsung.com/kz_kz/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "Неге Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy-ге ауысу",
+          "url": "https://www.samsung.com/kz_kz/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Galaxy-ге ауысу",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/kz_kz/smartphones/trade-in/",
+          "analytics": "samsung trade in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Аксессуарлар",
+      "url": "https://www.samsung.com/kz_kz/accessories/",
+      "analytics": "accessories",
+      "url_name": "Аксессуарлар",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Смартфон аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories/?smartphones",
+          "analytics": "smartphone accessories",
+          "url_name": "Смартфон аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Планшет аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories/?tablets",
+          "analytics": "tablet accessories",
+          "url_name": "Планшет аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories/?wearables",
+          "analytics": "watch accessories",
+          "url_name": "Galaxy Watch аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/mobile-accessories/all-mobile-accessories/?audio+phone-covers",
+          "analytics": "galaxy buds accessories",
+          "url_name": "Galaxy Buds аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "galaxy book accessories",
+          "url_name": "Galaxy Book Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "SmartTag",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?smarttag",
+          "analytics": "smarttag",
+          "url_name": "SmartTag",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Теледидар аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "Теледидар аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Audio Accessories",
+          "url": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Audio Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Проектор аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/projector-accessories/all-projector-accessories/",
+          "analytics": "projector accessories",
+          "url_name": "Проектор аксессуарлары",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Refrigerator Accessories",
+          "url": "https://www.samsung.com/uk/refrigerators/all-refrigerators/?accessories",
+          "analytics": "refrigerator accessories",
+          "url_name": "Refrigerator Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Vacuum Cleaner Accessories",
+          "url": "https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/vacuum-cleaners/",
+          "analytics": "vacuum cleaner accessories",
+          "url_name": "Vacuum Cleaner Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Кір жуу машина аксессуарлары",
+          "url": "https://www.samsung.com/kz_kz/home-appliance-accessories/all-home-appliance-accessories/?washers-and-dryers",
+          "analytics": "washer and dryer accessories",
+          "url_name": "Кір жуу машина аксессуарлары",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

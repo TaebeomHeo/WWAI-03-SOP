@@ -1,0 +1,355 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+---
+name: Core Python Development Standards
+version: "1.2"
+author: "Anwrew.P"
+lastUpdated: "2024-06-13"
+tags: ["python", "windows", "logging", "korean-docs"]
+minimumPythonVersion: "3.11.9"
+targetPlatform: "Windows"
+priority: 5
+globs:
+  - "**/*.py"
+  - "**/requirements.txt"
+  - "**/env.user"
+  - "**/.gitignore"
+triggers:
+  - file_change
+  - file_create
+alwaysApply: true
+---
+
+rule_definition:
+  description: "Core Python development standards for Python 3.11.9 projects with Korean documentation requirements and Windows-only support"
+  
+  environment_requirements:
+    python_version: "3.11.9"
+    target_platform: "Windows only - all code must be written and executed with Windows as the only supported environment"
+    virtual_environment: 
+      required: true
+      directory_name: ".venv"
+      note: "Application must always be executed within a virtual environment"
+    
+  project_structure:
+    main_entry_point: "main.py"
+    environment_config: "env.user"
+    dependencies: "requirements.txt"
+    
+  configuration_management:
+    environment_variables:
+      - "All configurable static information must be handled as environment variables via env.user file located at project root"
+      - "Use python-dotenv package to load these variables if necessary"
+    
+    package_management:
+      - "When importing, adding, or removing any package, requirements.txt must always be updated accordingly"
+      - "All dependencies must be explicitly listed in requirements.txt"
+    
+  application_behavior:
+    graceful_shutdown:
+      - "Application must respond to user Ctrl+C input and terminate gracefully"
+      - "No errors or exceptions should occur during shutdown"
+      - "Implement proper signal handling"
+      
+  logging_standards:
+    console_output: "All information displayed to console must use Logger, not print()"
+    format: "[YY/MM/DD HH:MM:SS Level LoggerName] Message"
+    format_specifications:
+      - "2-digit year"
+      - "Zero-padded month/day/hour/minute/second" 
+      - "24-hour format"
+    log_level: "Log level must be set appropriately for the logger's context and message content"
+    language: "All logger messages must be written in English only"
+    placement: "Logger statements must be inserted at appropriate locations"
+    
+  documentation_requirements:
+    file_headers:
+      language: "Korean"
+      requirement: "At the top of every file, provide a detailed description in Korean of the file's overall functionality and purpose"
+      
+    global_elements:
+      language: "Korean"
+      requirement: "All global variables and classes must have detailed Korean explanations describing their purpose and functionality"
+      
+    method_documentation:
+      docstring_language: "Korean"
+      required_sections:
+        - "Purpose explanation"
+        - "Parameters description"
+        - "Return values"
+        - "Examples if necessary"
+      requirement: "Every method must have a Korean docstring"
+      rules:
+        - "All function docstrings must be written in Korean."
+        - "Function docstrings must describe the purpose, operation, parameters, return values, exception handling, usage examples, and data structures in detail for practical use."
+        - "Each section should be separated by natural language, not numbering."
+        - "Do not use unnecessary numbering (e.g., 1., 2., 3.) in docstrings. (Numbering can become outdated if code changes; use natural language separation.)"
+        - "All log messages must be written in English only. (Docstrings/comments in Korean, logs in English.)"
+        - "Docstrings should match the actual code logic 1:1, including selectors, possible exceptions, and other practical details."
+        - "If the return value is a complex structure, describe each field in detail."
+        - "Refer to the example template below."
+      example_template: |
+        async def example_func(arg1: str, arg2: int) -> list[Node]:
+            """
+            함수의 목적을 한 문장으로 설명.
+
+            동작 방식:
+            - 주요 처리 단계1: ...
+              * 세부 설명
+            - 주요 처리 단계2: ...
+            - 예외 상황: ...
+
+            파라미터:
+                arg1 (str): 설명
+                arg2 (int): 설명
+
+            반환값:
+                list[Node]: 설명
+
+            예외 처리:
+            - 예외1: ...
+            - 예외2: ...
+
+            사용 예시:
+                result = await example_func('test', 123)
+
+            데이터 구조:
+            - Node: ...
+            """
+        
+    inline_comments:
+      language: "Korean"
+      requirement: "Every code block and functional unit within methods must have detailed Korean comments for readability and explanation. Do not use numbering (e.g., 1., 2., 3.) in comments for code blocks. Since code blocks can be added or removed at any time, numbering in comments can easily become outdated and cause confusion. Comments should focus on explaining the purpose and logic of each code block, not their order."
+      
+  coding_standards:
+    style_guide: "Follow PEP 8 style guidelines"
+    naming_conventions:
+      variables: "snake_case"
+      functions: "snake_case" 
+      classes: "PascalCase"
+      constants: "UPPER_CASE"
+      
+  error_handling:
+    - "All exceptions must be properly handled and logged through Logger"
+    - "Application must not terminate abnormally when exceptions occur"
+    - "Implement comprehensive exception handling strategies"
+    
+  version_control:
+    gitignore_requirements:
+      description: "Project must include a .gitignore file for git integration, suitable for Python environment"
+      must_ignore:
+        - ".venv/ directory"
+        - "__pycache__/ directories"
+        - "*.pyc files"
+        - "Other Python environment related files"
+
+  context_optimization:
+    high_priority:
+      - "Logging format compliance"
+      - "Korean documentation requirements"
+      - "Windows compatibility checks"
+      - "Virtual environment usage"
+    medium_priority:
+      - "PEP 8 style guidelines"
+      - "Error handling patterns"
+      - "Package management rules"
+    low_priority:
+      - "Code examples and templates"
+      - "Optional optimizations"
+
+  file_type_specific_rules:
+    main_py:
+      - "Must implement graceful shutdown"
+      - "Must use signal handlers"
+      - "Entry point validation required"
+    config_files:
+      - "Environment variable validation"
+      - "Secure configuration practices"
+      - "Platform-specific settings"
+
+code_examples:
+  logger_setup: |
+    """
+    로깅 시스템 설정을 담당하는 모듈
+    프로젝트 전반에 걸친 일관된 로깅 형식을 제공합니다.
+    """
+    import logging
+    from datetime import datetime
+    
+    class CustomFormatter(logging.Formatter):
+        """사용자 정의 로그 포맷터 - 프로젝트 표준 형식 적용"""
+        
+        def format(self, record):
+            """
+            로그 레코드를 프로젝트 표준 형식으로 포맷팅합니다.
+            
+            Args:
+                record: 로그 레코드 객체
+                
+            Returns:
+                str: 포맷팅된 로그 메시지
+            """
+            # 현재 시간을 프로젝트 표준 형식으로 변환
+            dt = datetime.fromtimestamp(record.created)
+            time_str = dt.strftime('%y/%m/%d %H:%M:%S')
+            
+            # 표준 형식으로 로그 메시지 구성
+            return f"[{time_str} {record.levelname}] [{record.name}] {record.getMessage()}"
+    
+    def setup_logger(name: str, level: int = logging.INFO) -> logging.Logger:
+        """
+        프로젝트 표준에 맞는 로거를 설정하고 반환합니다.
+        
+        Args:
+            name: 로거 이름
+            level: 로그 레벨 (기본값: INFO)
+            
+        Returns:
+            logging.Logger: 설정된 로거 객체
+            
+        Examples:
+            >>> logger = setup_logger('MainApp')
+            >>> logger.info('Application started successfully')
+        """
+        logger = logging.getLogger(name)
+        
+        # 핸들러가 이미 있는 경우 중복 방지
+        if not logger.handlers:
+            handler = logging.StreamHandler()
+            formatter = CustomFormatter()
+            handler.setFormatter(formatter)
+            logger.addHandler(handler)
+            logger.setLevel(level)
+        
+        return logger
+        
+  graceful_shutdown: |
+    """
+    우아한 종료 처리를 담당하는 모듈
+    Ctrl+C 입력 시 애플리케이션을 안전하게 종료합니다.
+    """
+    import signal
+    import sys
+    import logging
+    
+    # 전역 로거 인스턴스
+    shutdown_logger = logging.getLogger('ShutdownHandler')
+    
+    def signal_handler(sig, frame):
+        """
+        시그널 핸들러 - Ctrl+C 입력 처리
+        
+        Args:
+            sig: 수신된 시그널 번호
+            frame: 현재 스택 프레임
+        """
+        shutdown_logger.info("Graceful shutdown initiated by user")
+        
+        # 정리 작업 수행
+        cleanup_resources()
+        
+        shutdown_logger.info("Application terminated successfully")
+        sys.exit(0)
+    
+    def cleanup_resources():
+        """
+        애플리케이션 종료 전 리소스 정리를 수행합니다.
+        """
+        # 데이터베이스 연결 종료
+        # 파일 핸들 정리
+        # 네트워크 연결 해제 등
+        shutdown_logger.info("Resource cleanup completed")
+    
+    def setup_signal_handlers():
+        """
+        시그널 핸들러를 설정합니다.
+        """
+        signal.signal(signal.SIGINT, signal_handler)
+        shutdown_logger.info("Signal handlers configured")
+
+  environment_setup: |
+    """
+    환경 설정 관리 모듈
+    env.user 파일로부터 환경 변수를 로드하고 관리합니다.
+    """
+    import os
+    from pathlib import Path
+    from dotenv import load_dotenv
+    import logging
+    
+    # 환경 설정 로거
+    env_logger = logging.getLogger('EnvironmentConfig')
+    
+    def load_environment_config():
+        """
+        프로젝트 루트의 env.user 파일로부터 환경 변수를 로드합니다.
+        
+        Returns:
+            bool: 로드 성공 여부
+            
+        Raises:
+            FileNotFoundError: env.user 파일이 존재하지 않는 경우
+        """
+        # 프로젝트 루트 경로 확인
+        project_root = Path(__file__).parent.parent
+        env_file_path = project_root / 'env.user'
+        
+        if not env_file_path.exists():
+            env_logger.error(f"Environment file not found: {env_file_path}")
+            raise FileNotFoundError(f"env.user file not found at {env_file_path}")
+        
+        # 환경 변수 로드
+        load_dotenv(env_file_path)
+        env_logger.info("Environment variables loaded successfully")
+        
+        return True
+    
+    def get_config_value(key: str, default_value: str = None) -> str:
+        """
+        환경 변수 값을 가져옵니다.
+        
+        Args:
+            key: 환경 변수 키
+            default_value: 기본값 (키가 없을 경우)
+            
+        Returns:
+            str: 환경 변수 값
+        """
+        value = os.getenv(key, default_value)
+        
+        if value is None:
+            env_logger.warning(f"Environment variable '{key}' not found")
+        
+        return value
+
+enforcement_rules:
+  code_review_checklist:
+    - "Verify Python 3.11.9 compatibility"
+    - "Check Windows-only code implementation"
+    - "Ensure virtual environment usage"
+    - "Validate Logger usage instead of print()"
+    - "Verify Korean documentation completeness"
+    - "Check English-only logger messages"
+    - "Validate graceful shutdown implementation"
+    - "Ensure requirements.txt is updated"
+    - "Check .gitignore completeness"
+    
+  mandatory_compliance:
+    - "All new code must follow these standards"
+    - "Existing code modifications must be brought up to these standards"
+    - "No exceptions to the logging format requirements"
+    - "Korean documentation is mandatory for all code elements"
+    - "Windows compatibility must be maintained at all times"
+    - "AI-assisted code changes must be strictly limited to the user's explicit request, and any additional changes require user consent."
+
+ai_assistant_code_change_policy:
+  description: "When using AI assistance for code modification, the following principles must be strictly followed."
+  principles:
+    - "The AI must only modify the code, comments, or documentation that the user has explicitly requested."
+    - "No other parts of the code, comments, or documentation should be changed unless the user specifically asks for it."
+    - "If the AI believes that additional changes are necessary for correctness or consistency, it must first explain the reason and obtain user consent before proceeding."
+    - "Unsolicited or arbitrary changes to code style, variable names, comments, or logic are strictly prohibited."
+    - "All changes must be clearly scoped and traceable to the user's explicit request."

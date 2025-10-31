@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$(cat <<''EOF''\nAdd comprehensive AI-Assisted Maintenance System\n\nCreated a 2-level documentation system to enable non-technical users to maintain code with AI assistance:\n\n- L0 Meta Documents (.ai-maintenance/):\n  * L0-WORKFLOW-MASTER.md: 5-step workflow (preparation, complexity analysis, implementation, testing, review, documentation)\n  * L0-DOCUMENT-INDEX.md: Document finder and quick reference\n  * L0-HANDOFF-CHECKLIST.md: Developer handoff guide (6-8 hours)\n  * README.md: System overview and 2-level architecture\n\n- L1 Project Documents (project root):\n  * L1-CLAUDE.md: AI context and project architecture\n  * L1-COMPLEXITY-MATRIX.md: LOW/MEDIUM/HIGH classification criteria\n  * L1-CONSTRAINTS.md: Absolute prohibitions and caution areas\n  * L1-TESTING.md: Test procedures for all 6 sub-projects\n\n- L2 Living Documents (continuously updated):\n  * L2-EXAMPLES.md: Success/failure case studies (7 initial examples)\n  * L2-PROMPTS.md: 10 standardized AI prompt templates\n\n- Supporting Files:\n  * QUICKSTART.md: Quick reference for all roles\n  * README.md: Updated with project overview and system guide\n  * change-requests/: Change tracking folder structure\n\n- Original Projects:\n  * 01.smartThings/: SmartThings automation test framework\n  * 02.ENH/: Enhanced web validation tools (gnb, pd, pf, shop, smartthings-logic)\n\nKey Features:\n- 3-tier complexity system (LOW/MEDIUM/HIGH)\n- Step-by-step workflow with gate criteria\n- Role-based documentation (developer, non-technical, AI)\n- Safety-first approach with Git backup and rollback\n- Standardized AI prompt templates\n- Living documentation that grows with use\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude <noreply@anthropic.com>\nEOF\n)\")"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

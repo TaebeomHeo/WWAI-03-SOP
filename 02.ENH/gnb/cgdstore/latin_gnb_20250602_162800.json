@@ -1,0 +1,1052 @@
+{
+  "extracted_at": "20250602_162800",
+  "tree": [
+    {
+      "node_type": "L0",
+      "name": "Ofertas",
+      "url": "https://www.samsung.com/latin/offer/",
+      "analytics": "shop",
+      "url_name": "Ofertas",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 Ultra",
+          "url": "https://www.samsung.com/latin/smartphones/galaxy-s25-ultra/",
+          "analytics": "galaxy s25 ultra",
+          "url_name": "Galaxy S25 Ultra",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 | S25+",
+          "url": "https://www.samsung.com/latin/smartphones/galaxy-s25/",
+          "analytics": "galaxy s25 | s25 plus",
+          "url_name": "Galaxy S25 | S25+",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy S25 Edge",
+          "url": "https://www.samsung.com/uk/smartphones/galaxy-s25-edge/buy/",
+          "analytics": "Galaxy S25 Edge",
+          "url_name": "Galaxy S25 Edge",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Fold6",
+          "url": "https://www.samsung.com/latin/smartphones/galaxy-z-fold6/",
+          "analytics": "galaxy fold6",
+          "url_name": "Galaxy Fold6",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Flip6",
+          "url": "https://www.samsung.com/latin/smartphones/galaxy-z-flip6/",
+          "analytics": "galaxy flip6",
+          "url_name": "Galaxy Flip6",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Tab S10 Series",
+          "url": "https://www.samsung.com/latin/tablets/galaxy-tab-s/galaxy-tab-s10-ultra-gray-256gb-sm-x920nzadgto/",
+          "analytics": "galaxy tab s10 series",
+          "url_name": "Galaxy Tab S10 Series",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch Ultra",
+          "url": "https://www.samsung.com/latin/watches/galaxy-watch/galaxy-watch-ultra-titanium-gray-lte-sm-l705fdaagto/buy/",
+          "analytics": "galaxy watch ultra",
+          "url_name": "Galaxy Watch Ultra",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds3 Pro",
+          "url": "https://www.samsung.com/latin/audio-sound/galaxy-buds/galaxy-buds3-pro-silver-sm-r630nzaalta/",
+          "analytics": "galaxy buds3 pro",
+          "url_name": "Galaxy Buds3 Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book5 Pro",
+          "url": "https://www.samsung.com/uk/computers/galaxy-book/galaxy-book5-pro/buy/?modelCode=NP960XHA-KG2UK",
+          "analytics": "galaxy book5 pro",
+          "url_name": "Galaxy Book5 Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Neo QLED 8K TV",
+          "url": "https://www.samsung.com/latin/tvs/qled-tv/qn900f-75-inch-neo-qled-8k-mini-led-smart-tv-qn75qn900fpxpa/",
+          "analytics": "neo qled 8k tv",
+          "url_name": "Neo QLED 8K TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Frame Pro",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-frame/ls03fw-75-inch-the-frame-pro-neo-qled-4k-vision-ai-smart-tv-black-qe75ls03fwuxxu/",
+          "analytics": "the frame pro",
+          "url_name": "The Frame Pro",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Q-series Soundbar",
+          "url": "https://www.samsung.com/latin/audio-devices/soundbar/q990b-black-hw-q990b-zp/",
+          "analytics": "q series soundbar",
+          "url_name": "Q-serie Soundbar",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Odyssey OLED G8",
+          "url": "https://www.samsung.com/latin/monitors/gaming/odyssey-oled-g8-g81sf-32-inch-240hz-oled-uhd-ls32fg810snxza/",
+          "analytics": "odyssey oled g8",
+          "url_name": "Odyssey OLED G8",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Samsung Bespoke SpaceMax™",
+          "url": "https://www.samsung.com/uk/refrigerators/bottom-mount-freezer/bottom-mount-freezer-with-smartthings-ai-energy-mo-387l-black-rb38c607ab1-eu/",
+          "analytics": "samsung bespoke spacemax",
+          "url_name": "Samsung Bespoke SpaceMax™",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Samsung Series 8 AI Energy",
+          "url": "https://www.samsung.com/uk/washers-and-dryers/washing-machines/ww8400d-front-loading-smartthings-ai-energy-made-a-40-percent-extra-energy-efficiency-ai-ecobubble-11kg-black-ww11db8b95gbu1/",
+          "analytics": "samsung series 8 ai energy",
+          "url_name": "Samsung Series 8 AI Energy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Buy Direct",
+          "url": "https://www.samsung.com/uk/why-buy-from-samsung/",
+          "analytics": "why buy direct",
+          "url_name": "Why Buy From Samsung",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Download Shop App",
+          "url": "https://www.samsung.com/uk/apps/samsung-shop-app/",
+          "analytics": "why buy direct",
+          "url_name": "Dowload Shop App",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Curated Collections",
+          "url": "https://www.samsung.com/uk/curated-collections/",
+          "analytics": "curated collections",
+          "url_name": "Curated Collections",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "SmartThings",
+          "url": "https://www.samsung.com/latin/smartthings/",
+          "analytics": "smartthings",
+          "url_name": "SmartThings",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Descubra la IA",
+          "url": "https://www.samsung.com/latin/ai-products/",
+          "analytics": "discover ai",
+          "url_name": "Descubra la IA",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Para estudiantes y jóvenes",
+          "url": "https://www.samsung.com/latin/students-offers/",
+          "analytics": "for student and youth",
+          "url_name": "Para estudiantes y jóvenes",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "For Key worker & Teacher",
+          "url": "https://www.samsung.com/uk/key-worker-offers/",
+          "analytics": "for key worker & teacher",
+          "url_name": "For Key worker & Teacher",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Mobile",
+      "url": "https://www.samsung.com/latin/smartphones/all-smartphones/",
+      "analytics": "mobile",
+      "url_name": "Mobile",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Smartphone",
+          "url": "https://www.samsung.com/latin/smartphones/all-smartphones/",
+          "analytics": "galaxy smartphone",
+          "url_name": "Galaxy Smartphone",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Tab",
+          "url": "https://www.samsung.com/latin/tablets/all-tablets/",
+          "analytics": "galaxy tab",
+          "url_name": "Galaxy Tab",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book",
+          "url": "https://www.samsung.com/uk/computers/all-computers/?galaxy-book-ultra+galaxy-book-pro-360+galaxy-book-pro+14i04+14i05+14i07",
+          "analytics": "galaxy  book",
+          "url_name": "Galaxy Book",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch",
+          "url": "https://www.samsung.com/latin/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "Galaxy Watch",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds",
+          "url": "https://www.samsung.com/latin/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para Galaxy",
+          "url": "https://www.samsung.com/latin/mobile-accessories/all-mobile-accessories/",
+          "analytics": "galaxy accessories",
+          "url_name": "Accesorios para Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Certified Renewed",
+          "url": "https://www.samsung.com/uk/certified-re-newed-phones/",
+          "analytics": "certified renewed",
+          "url_name": "Certified Renewed",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Descubra Móvil",
+          "url": "https://www.samsung.com/latin/mobile/",
+          "analytics": "discover mobile",
+          "url_name": "Descubra Móvil",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy AI",
+          "url": "https://www.samsung.com/latin/galaxy-ai/",
+          "analytics": "galaxy ai",
+          "url_name": "Galaxy AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "One UI",
+          "url": "https://www.samsung.com/latin/one-ui/",
+          "analytics": "one ui",
+          "url_name": "One UI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/latin/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Aplicaciones y servicios",
+          "url": "https://www.samsung.com/latin/apps/",
+          "analytics": "apps and service",
+          "url_name": "Aplicaciones y servicios",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Galaxy",
+          "url": "https://www.samsung.com/latin/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "Why Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Switch to Galaxy",
+          "url": "https://www.samsung.com/latin/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Switch to Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/uk/trade-in/",
+          "analytics": "samsung trade-in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "TV y AV",
+      "url": "https://www.samsung.com/latin/tvs/all-tvs/",
+      "analytics": "tv and av",
+      "url_name": "TV y AV",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Neo QLED",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?neo-qled",
+          "analytics": "neo qled",
+          "url_name": "Neo QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "OLED",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?oled",
+          "analytics": "oled",
+          "url_name": "OLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "QLED",
+          "url": "https://www.samsung.com/latin/tvs/qled-tv/",
+          "analytics": "qled",
+          "url_name": "QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Crystal UHD",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?crystal-uhd",
+          "analytics": "crystal uhd",
+          "url_name": "Crystal UHD",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Frame",
+          "url": "https://www.samsung.com/latin/lifestyle-tvs/the-frame/",
+          "analytics": "the frame",
+          "url_name": "The Frame",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Serif",
+          "url": "https://www.samsung.com/latin/lifestyle-tvs/the-serif/",
+          "analytics": "the serif",
+          "url_name": "The Serif",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Terrace",
+          "url": "https://www.samsung.com/latin/lifestyle-tvs/the-terrace/",
+          "analytics": "the terrace",
+          "url_name": "The Terrace",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Sero",
+          "url": "https://www.samsung.com/latin/lifestyle-tvs/the-sero/",
+          "analytics": "the sero",
+          "url_name": "The Sero",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Dispositivos de Sonido",
+          "url": "https://www.samsung.com/latin/audio-devices/all-audio-devices/",
+          "analytics": "sound devices",
+          "url_name": "Dispositivos de Sonido",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Proyectores",
+          "url": "https://www.samsung.com/latin/projectors/all-projectors/",
+          "analytics": "projectors",
+          "url_name": "Proyectores",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para TV",
+          "url": "https://www.samsung.com/latin/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "Accesorios para TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios de Audio",
+          "url": "https://www.samsung.com/latin/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Accesorios de Audio",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Televisores por tamaños",
+          "url": "https://www.samsung.com/latin/tvs/98-inch-tvs/",
+          "analytics": "tvs by sizes",
+          "url_name": "Televisores por tamaños",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "98 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/98-inch-tvs/",
+          "analytics": "98 inch",
+          "url_name": "98 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "83 y 85 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/85-inch-tvs/",
+          "analytics": "83 and 85 inch",
+          "url_name": "83 y 85 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "75 y 77 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/75-inch-tvs/",
+          "analytics": "75 and 77 inch",
+          "url_name": "75 y 77 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "65 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/65-inch-tvs/",
+          "analytics": "65 inch",
+          "url_name": "65 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "55 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/55-inch-tvs/",
+          "analytics": "55 inch",
+          "url_name": "55 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "48 y 50 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/50-inch-tvs/",
+          "analytics": "48 and 50 inch",
+          "url_name": "48 y 50 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "43 pulgadas",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?43",
+          "analytics": "43 inch",
+          "url_name": "43 pulgadas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "32 pulgadas o más pequeña",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?32-or-smaller",
+          "analytics": "32 inch or smaller",
+          "url_name": "32 pulgadas o más pequeña",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Televisores por resolución",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?8k",
+          "analytics": "tvs by resolution",
+          "url_name": "Televisores por resolución",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "8K TVs",
+          "url": "https://www.samsung.com/latin/tvs/all-tvs/?8k",
+          "analytics": "8k tvs",
+          "url_name": "8K TVs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "4K TVs",
+          "url": "https://www.samsung.com/latin/tvs/uhd-4k-tv/",
+          "analytics": "4k tvs",
+          "url_name": "4K TVs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Full HD TV",
+          "url": "https://www.samsung.com/latin/tvs/full-hd-tv/",
+          "analytics": "full hd hd tvs",
+          "url_name": "Full HD TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Vision AI",
+          "url": "https://www.samsung.com/uk/tvs/vision-ai-tv",
+          "analytics": "samsung vision ai",
+          "url_name": "Samsung AI TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Samsung TV",
+          "url": "https://www.samsung.com/uk/tvs/why-samsung-tv/",
+          "analytics": "why samsung tv",
+          "url_name": "Why Samsung TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué elegir Samsung OLED?",
+          "url": "https://www.samsung.com/latin/tvs/oled-tv/highlights/",
+          "analytics": "why oled",
+          "url_name": "¿Por qué elegir Samsung OLED?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué elegir los televisores Neo QLED?",
+          "url": "https://www.samsung.com/latin/tvs/qled-tv/highlights/",
+          "analytics": "why neo qled",
+          "url_name": "¿Por qué elegir los televisores Neo QLED?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué elegir The Frame?",
+          "url": "https://www.samsung.com/latin/lifestyle-tvs/the-frame/highlights/",
+          "analytics": "why the frame",
+          "url_name": "¿Por qué elegir The Frame?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Help choose my TV",
+          "url": "https://www.samsung.com/uk/tvs/help-me-choose/",
+          "analytics": "help choose my tv",
+          "url_name": "Help choose my TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Help choose my Sound Device",
+          "url": "https://www.samsung.com/uk/audio-devices/help-me-choose/",
+          "analytics": "help choose my sound device",
+          "url_name": "Help choose my Sound Device",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "MICRO LED",
+          "url": "https://www.samsung.com/latin/tvs/micro-led/highlights/",
+          "analytics": "micro led",
+          "url_name": "MICRO LED",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Electrodomésticos",
+      "url": "https://www.samsung.com/latin/refrigerators/all-refrigerators/",
+      "analytics": "appliances",
+      "url_name": "Electrodomésticos",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Todas las refrigeradoras",
+          "url": "https://www.samsung.com/latin/refrigerators/all-refrigerators/",
+          "analytics": "refrigerators",
+          "url_name": "Todas las refrigeradoras",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Hornos",
+          "url": "https://www.samsung.com/latin/cooking-appliances/all-cooking-appliances/?ovens",
+          "analytics": "ovens",
+          "url_name": "Hornos",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Anafes",
+          "url": "https://www.samsung.com/latin/cooking-appliances/hobs/",
+          "analytics": "hobs",
+          "url_name": "Anafes",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Campanas",
+          "url": "https://www.samsung.com/latin/cooking-appliances/hoods/",
+          "analytics": "hoods",
+          "url_name": "Campanas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Microondas",
+          "url": "https://www.samsung.com/latin/microwave-ovens/all-microwave-ovens/",
+          "analytics": "microwaves",
+          "url_name": "Microondas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Lavavajillas",
+          "url": "https://www.samsung.com/latin/dishwashers/all-dishwashers/",
+          "analytics": "dishwashers",
+          "url_name": "Lavavajillas",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Todo lavado",
+          "url": "https://www.samsung.com/latin/washers-and-dryers/all-washers-and-dryers/",
+          "analytics": "laundry",
+          "url_name": "Todo lavado",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Aspiradoras Jet Stick",
+          "url": "https://www.samsung.com/latin/vacuum-cleaners/all-vacuum-cleaners/",
+          "analytics": "jet stick vacuums",
+          "url_name": "Aspiradoras Jet Stick",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Robot Aspiradoras Jet Bot",
+          "url": "https://www.samsung.com/latin/vacuum-cleaners/robot/",
+          "analytics": "jet bot robot vacuums",
+          "url_name": "Robot Aspiradoras Jet Bot",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Aires acondicionados",
+          "url": "https://www.samsung.com/latin/air-conditioners/all-air-conditioners/?windfree",
+          "analytics": "air conditioners",
+          "url_name": "Aires acondicionados",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Purificadores de Aire",
+          "url": "https://www.samsung.com/latin/air-care/all-air-care/",
+          "analytics": "air purifier",
+          "url_name": "Purificadores de Aire",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios Electrodomésticos",
+          "url": "https://www.samsung.com/latin/home-appliance-accessories/all-home-appliance-accessories/",
+          "analytics": "appliances accessories",
+          "url_name": "Accesorios Electrodomésticos",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Bespoke AI",
+          "url": "https://www.samsung.com/latin/home-appliances/bespoke-home/",
+          "analytics": "bespoke ai",
+          "url_name": "Bespoke AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Smart Forward",
+          "url": "https://www.samsung.com/latin/home-appliances/bespoke-ai-smartthings/",
+          "analytics": "smart forward",
+          "url_name": "Smart Forward",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Ahorro de energía con AI",
+          "url": "https://www.samsung.com/latin/home-appliances/ai-energy-saving/",
+          "analytics": "ai energy saving",
+          "url_name": "Ahorro de energía con AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué elegir Samsung?",
+          "url": "https://www.samsung.com/latin/home-appliances/why-samsung-appliances/",
+          "analytics": "why samsung appliances",
+          "url_name": "¿Por qué elegir Samsung?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Refrigerator Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/what-is-the-best-type-of-fridge-freezer/",
+          "analytics": "refrigerator buying guide",
+          "url_name": "Refrigerator Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Laundry Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/what-size-washing-machine-do-i-need/",
+          "analytics": "laundry buying guide",
+          "url_name": "Laundry Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Vacuum Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/learn/vacuum-cleaners/how-to-choose-a-vacuum-cleaner/",
+          "analytics": "vacuum buying guide",
+          "url_name": "Vacuum Buying Guide",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Cooking Buying Guide",
+          "url": "https://www.samsung.com/uk/home-appliances/buying-guide/",
+          "analytics": "cooking buying guide",
+          "url_name": "Cooking Buying Guide",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "IT",
+      "url": "https://www.samsung.com/latin/monitors/all-monitors/",
+      "analytics": "it",
+      "url_name": "IT",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book & Laptop",
+          "url": "https://www.samsung.com/uk/computers/all-computers/",
+          "analytics": "galaxy book & laptop",
+          "url_name": "Galaxy Book & Laptop",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Monitores",
+          "url": "https://www.samsung.com/latin/monitors/all-monitors/",
+          "analytics": "monitors",
+          "url_name": "Monitores",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Memory & Storage",
+          "url": "https://www.samsung.com/uk/memory-storage/all-memory-storage/",
+          "analytics": "memory & storage",
+          "url_name": "Memory & Storage",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Laptop Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "laptop accessories",
+          "url_name": "Laptop Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Copilot+ PCs",
+          "url": "https://www.samsung.com/uk/computers/galaxy-book-copilot-plus-pcs/",
+          "analytics": "copliot + pcs",
+          "url_name": "Copilot+ PCs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué monitor de juegos Odyssey?",
+          "url": "https://www.samsung.com/latin/monitors/odyssey-gaming-monitor/",
+          "analytics": "why odyssey gaming monitor",
+          "url_name": "¿Por qué monitor de juegos Odyssey?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué ViewFinity de alta resolución?",
+          "url": "https://www.samsung.com/latin/monitors/viewfinity-high-resolution-monitor/",
+          "analytics": "why viewfinity high resolution",
+          "url_name": "¿Por qué ViewFinity de alta resolución?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Smart Monitor",
+          "url": "https://www.samsung.com/uk/monitors/smart-monitor/",
+          "analytics": "Why Smart Monitor",
+          "url_name": "Why Smart Monitor",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Help choose my Monitor",
+          "url": "https://www.samsung.com/uk/monitors/help-me-choose/",
+          "analytics": "Help choose my Monitor",
+          "url_name": "Help choose my Monitor",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Monitor Buying Guide",
+          "url": "https://www.samsung.com/uk/monitors/monitor-buying-guide/",
+          "analytics": "Monitor Buying Guide",
+          "url_name": "Monitor Buying Guide",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Wearables",
+      "url": "https://www.samsung.com/latin/watches/all-watches/",
+      "analytics": "wearables",
+      "url_name": "Wearables",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Watch",
+          "url": "https://www.samsung.com/latin/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "Galaxy Watch",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds",
+          "url": "https://www.samsung.com/latin/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios Wearables",
+          "url": "https://www.samsung.com/latin/mobile-accessories/all-mobile-accessories/?wearables+audio",
+          "analytics": "wearables accessories",
+          "url_name": "Accesorios Wearables",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/latin/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy AI",
+          "url": "https://www.samsung.com/latin/galaxy-ai/",
+          "analytics": "galaxy ai",
+          "url_name": "Galaxy AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Aplicaciones y servicios",
+          "url": "https://www.samsung.com/latin/apps/",
+          "analytics": "apps and service",
+          "url_name": "Aplicaciones y servicios",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "¿Por qué Galaxy?",
+          "url": "https://www.samsung.com/latin/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "¿Por qué Galaxy?",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Cambia a Galaxy",
+          "url": "https://www.samsung.com/latin/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Cambia a Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/uk/trade-in/",
+          "analytics": "samsung trade-in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Accesorios",
+      "url": "https://www.samsung.com/latin/accessories/",
+      "analytics": "accessories",
+      "url_name": "Accesorios",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para smartphones",
+          "url": "https://www.samsung.com/latin/mobile-accessories/all-mobile-accessories/?smartphones",
+          "analytics": "smartphone accessories",
+          "url_name": "Accesorios para smartphones",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para las Galaxy Tab",
+          "url": "https://www.samsung.com/latin/mobile-accessories/all-mobile-accessories/?tablets",
+          "analytics": "tablet accessories",
+          "url_name": "Accesorios para las Galaxy Tab",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para los Galaxy Watch",
+          "url": "https://www.samsung.com/latin/mobile-accessories/all-mobile-accessories/?wearables",
+          "analytics": "watch accessories",
+          "url_name": "Accesorios para los Galaxy Watch",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds Accessories",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?audio+phone-covers",
+          "analytics": "galaxy buds accessories",
+          "url_name": "Galaxy Buds Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "galaxy book accessories",
+          "url_name": "Galaxy Book Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "SmartTag",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?smarttag",
+          "analytics": "smarttag",
+          "url_name": "SmartTag",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para TV",
+          "url": "https://www.samsung.com/latin/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "Accesorios para TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios de Audio",
+          "url": "https://www.samsung.com/latin/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Accesorios de Audio",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para Proyectores",
+          "url": "https://www.samsung.com/latin/projector-accessories/all-projector-accessories/",
+          "analytics": "projector accessoreis",
+          "url_name": "Accesorios para Proyectores",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para Refrigeradoras",
+          "url": "https://www.samsung.com/latin/home-appliance-accessories/all-home-appliance-accessories/?refrigerators",
+          "analytics": "refrigerator accessories",
+          "url_name": "Accesorios para Refrigeradoras",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para Aspiradoras",
+          "url": "https://www.samsung.com/latin/home-appliance-accessories/all-home-appliance-accessories/?vacuum-cleaners",
+          "analytics": "vacuum cleaner accessories",
+          "url_name": "Accesorios para Aspiradoras",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Accesorios para Lavado",
+          "url": "https://www.samsung.com/latin/home-appliance-accessories/all-home-appliance-accessories/?washers-and-dryers",
+          "analytics": "washer and dryer accessories",
+          "url_name": "Accesorios para Lavado",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

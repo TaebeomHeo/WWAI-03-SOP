@@ -1,0 +1,964 @@
+{
+  "extracted_at": "20250602_162743",
+  "tree": [
+    {
+      "node_type": "L0",
+      "name": "Shop",
+      "url": "https://www.samsung.com/uk/offer/",
+      "analytics": "shop",
+      "url_name": "Shop",
+      "children": [
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Buy Direct",
+          "url": "https://www.samsung.com/uk/why-buy-from-samsung/",
+          "analytics": "why buy direct",
+          "url_name": "Why Buy From Samsung",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Download Shop App",
+          "url": "https://www.samsung.com/uk/apps/samsung-shop-app/",
+          "analytics": "why buy direct",
+          "url_name": "Dowload Shop App",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Curated Collections",
+          "url": "https://www.samsung.com/uk/curated-collections/",
+          "analytics": "curated collections",
+          "url_name": "Curated Collections",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "SmartThings",
+          "url": "https://www.samsung.com/uk/smartthings/",
+          "analytics": "smartthings",
+          "url_name": "SmartThings",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Discover AI",
+          "url": "https://www.samsung.com/uk/ai-products/",
+          "analytics": "discover ai",
+          "url_name": "Discover AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "For Student & Youth",
+          "url": "https://www.samsung.com/uk/students-offers/",
+          "analytics": "for student & youth",
+          "url_name": "For Student & Youth",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "For Key worker & Teacher",
+          "url": "https://www.samsung.com/uk/key-worker-offers/",
+          "analytics": "for key worker & teacher",
+          "url_name": "For Key worker & Teacher",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "موبایل",
+      "url": "https://www.samsung.com/iran/smartphones/all-smartphones/",
+      "analytics": "mobile",
+      "url_name": "موبایل",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "گوشی های هوشمند Galaxy",
+          "url": "https://www.samsung.com/iran/smartphones/all-smartphones/",
+          "analytics": "galaxy smartphone",
+          "url_name": "گوشی های هوشمند Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تبلت های Galaxy",
+          "url": "https://www.samsung.com/iran/tablets/all-tablets/",
+          "analytics": "galaxy tab",
+          "url_name": "تبلت های Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book",
+          "url": "",
+          "analytics": "galaxy  book",
+          "url_name": "Galaxy Book",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "ساعت های Galaxy",
+          "url": "https://www.samsung.com/iran/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "ساعت های Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds",
+          "url": "https://www.samsung.com/iran/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "لوازم جانبی Galaxy",
+          "url": "https://www.samsung.com/iran/mobile-accessories/all-mobile-accessories",
+          "analytics": "galaxy accessories",
+          "url_name": "لوازم جانبی Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Certified Renewed",
+          "url": "https://www.samsung.com/uk/certified-re-newed-phones/",
+          "analytics": "certified renewed",
+          "url_name": "Certified Renewed",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف موبایل ها",
+          "url": "https://www.samsung.com/iran/mobile/",
+          "analytics": "discover mobile",
+          "url_name": "کشف موبایل ها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Galaxy AI",
+          "url": "https://www.samsung.com/iran/galaxy-ai/",
+          "analytics": "galaxy ai",
+          "url_name": "Galaxy AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "One UI",
+          "url": "https://www.samsung.com/iran/one-ui/",
+          "analytics": "one ui",
+          "url_name": "One UI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/iran/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Apps & Services",
+          "url": "https://www.samsung.com/iran/apps/",
+          "analytics": "apps and services",
+          "url_name": "Apps & Services",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا Galaxy",
+          "url": "https://www.samsung.com/iran/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "چرا Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Switch to Galaxy",
+          "url": "https://www.samsung.com/iran/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Switch to Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/uk/trade-in/",
+          "analytics": "samsung trade-in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "صوتی‌تصویری",
+      "url": "https://www.samsung.com/iran/tvs/all-tvs/",
+      "analytics": "tv and av",
+      "url_name": "صوتی‌تصویری",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Neo QLED",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?neo-qled+neo-qled-4k-tv",
+          "analytics": "neo qled",
+          "url_name": "Neo QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "OLED",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?oled-tv",
+          "analytics": "oled",
+          "url_name": "OLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "QLED",
+          "url": "https://www.samsung.com/iran/tvs/qled-tv/",
+          "analytics": "qled",
+          "url_name": "QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Crystal UHD",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?crystal-uhd-tv",
+          "analytics": "crystal uhd",
+          "url_name": "Crystal UHD",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Frame",
+          "url": "https://www.samsung.com/iran/lifestyle-tvs/all-lifestyle-tvs/?the-frame",
+          "analytics": "the frame",
+          "url_name": "The Frame",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Serif",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-serif/",
+          "analytics": "the serif",
+          "url_name": "The Serif",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Terrace",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-terrace/",
+          "analytics": "the terrace",
+          "url_name": "The Terrace",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "The Sero",
+          "url": "https://www.samsung.com/uk/lifestyle-tvs/the-sero/",
+          "analytics": "the sero",
+          "url_name": "The Sero",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "دستگاه‌های صوتی",
+          "url": "https://www.samsung.com/iran/audio-devices/all-audio-devices/",
+          "analytics": "sound devices",
+          "url_name": "دستگاه‌های صوتی",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Projectors",
+          "url": "https://www.samsung.com/uk/projectors/all-projectors/",
+          "analytics": "projectors",
+          "url_name": "Projectors",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "TV Accessories",
+          "url": "https://www.samsung.com/uk/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "TV Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Audio Accessories",
+          "url": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Audio Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون بر اساس اندازه",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?98-inch",
+          "analytics": "tvs by sizes",
+          "url_name": "تلویزیون بر اساس اندازه",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "98 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?98-inch",
+          "analytics": "98 inch",
+          "url_name": "98 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "83-85 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?83-85-inch",
+          "analytics": "83 and 85 inch",
+          "url_name": "83-85 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "75-77 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?75-77-inch",
+          "analytics": "75 and 77 inch",
+          "url_name": "75-77 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "65 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?65-inch",
+          "analytics": "65 inch",
+          "url_name": "65 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "55 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?55-inch",
+          "analytics": "55 inch",
+          "url_name": "55 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "48-50 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?48-50-inch",
+          "analytics": "48 and 50 inch",
+          "url_name": "48-50 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "43 اینچ",
+          "url": "https://www.samsung.com/iran/tvs/all-tvs/?43-inch",
+          "analytics": "43 inch",
+          "url_name": "43 اینچ",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "32 inch or smaller",
+          "url": "https://www.samsung.com/uk/tvs/all-tvs/?32-and-under",
+          "analytics": "32 inch or smaller",
+          "url_name": "",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون بر اساس وضوح",
+          "url": "https://www.samsung.com/iran/tvs/8k-tv/",
+          "analytics": "tvs by resolution",
+          "url_name": "تلویزیون بر اساس وضوح",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون های سری 8K",
+          "url": "https://www.samsung.com/iran/tvs/8k-tv/",
+          "analytics": "8k tvs",
+          "url_name": "تلویزیون های سری 8K",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون های سری 4K",
+          "url": "https://www.samsung.com/iran/tvs/uhd-4k-tv/",
+          "analytics": "4k tvs",
+          "url_name": "تلویزیون های سری 4K",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون های سری HD و FullHD",
+          "url": "https://www.samsung.com/iran/tvs/full-hd-tv/",
+          "analytics": "full hd hd tvs",
+          "url_name": "تلویزیون های سری HD و FullHD",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Vision AI",
+          "url": "https://www.samsung.com/iran/tvs/vision-ai-tv/",
+          "analytics": "samsung vision ai",
+          "url_name": "Samsung Vision AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا Samsung TV",
+          "url": "https://www.samsung.com/iran/tvs/why-samsung-tv/",
+          "analytics": "why samsung tv",
+          "url_name": "چرا Samsung TV",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا OLED",
+          "url": "https://www.samsung.com/iran/tvs/oled-tv/highlights/",
+          "analytics": "why oled",
+          "url_name": "چرا OLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا Neo QLED",
+          "url": "https://www.samsung.com/iran/tvs/qled-tv/highlights/",
+          "analytics": "why neo qled",
+          "url_name": "چرا Neo QLED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا The Frame",
+          "url": "https://www.samsung.com/iran/lifestyle-tvs/the-frame/highlights/",
+          "analytics": "why the frame",
+          "url_name": "چرا The Frame",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "راهنمای خرید تلویزیون",
+          "url": "https://www.samsung.com/iran/tvs/tv-buying-guide/",
+          "analytics": "help choose my tv",
+          "url_name": "راهنمای خرید تلویزیون",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Help choose my Sound Device",
+          "url": "https://www.samsung.com/uk/audio-devices/help-me-choose/",
+          "analytics": "help choose my sound device",
+          "url_name": "Help choose my Sound Device",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا تلویزیون 8K",
+          "url": "https://www.samsung.com/iran/tvs/8k-tv/highlights/",
+          "analytics": "why 8k tv",
+          "url_name": "چرا تلویزیون 8K",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "لوازم خانگی",
+      "url": "https://www.samsung.com/iran/home-appliances/",
+      "analytics": "appliances",
+      "url_name": "لوازم خانگی",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "یخچال",
+          "url": "https://www.samsung.com/iran/refrigerators/all-refrigerators/",
+          "analytics": "refrigerators",
+          "url_name": "یخچال",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Ovens",
+          "url": "https://www.samsung.com/uk/cooking-appliances/ovens/",
+          "analytics": "ovens",
+          "url_name": "Ovens",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Hobs",
+          "url": "https://www.samsung.com/uk/cooking-appliances/hobs/",
+          "analytics": "hobs",
+          "url_name": "Hobs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Hoods",
+          "url": "https://www.samsung.com/uk/cooking-appliances/hoods/",
+          "analytics": "hoods",
+          "url_name": "Hoods",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "مایکروویو",
+          "url": "https://www.samsung.com/iran/microwave-ovens/all-microwave-ovens/",
+          "analytics": "microwaves",
+          "url_name": "مایکروویو",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "ماشین های ظرفشویی",
+          "url": "https://www.samsung.com/iran/dishwashers/all-dishwashers/",
+          "analytics": "dishwashers",
+          "url_name": "ماشین های ظرفشویی",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "لباسشویی",
+          "url": "https://www.samsung.com/iran/washers-and-dryers/all-washers-and-dryers/",
+          "analytics": "laundry",
+          "url_name": "لباسشویی",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "جاروبرقی ها",
+          "url": "https://www.samsung.com/iran/vacuum-cleaners/all-vacuum-cleaners/",
+          "analytics": "vacuum cleaner",
+          "url_name": "جاروبرقی ها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Jet Bot Robot Vacuums",
+          "url": "https://www.samsung.com/uk/vacuum-cleaners/robot/?robots",
+          "analytics": "jet bot robot vacuums",
+          "url_name": "Jet Bot Robot Vacuums",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "سیستم‌های تهویه مطبوع",
+          "url": "https://www.samsung.com/iran/air-conditioners/all-air-conditioners/",
+          "analytics": "air conditioners",
+          "url_name": "سیستم‌های تهویه مطبوع",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Air Purifier",
+          "url": "https://www.samsung.com/vn/air-care/all-air-care/",
+          "analytics": "air purifier",
+          "url_name": "Air Purifier",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Appliances Accessories",
+          "url": "",
+          "analytics": "appliances accessories",
+          "url_name": "Appliances Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "خوش آمدید به Bespoke AI",
+          "url": "https://www.samsung.com/iran/home-appliances/bespoke-home/",
+          "analytics": "bespoke ai",
+          "url_name": "خوش آمدید به Bespoke AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Smart Forward",
+          "url": "https://www.samsung.com/uk/home-appliances/bespoke-ai-smartthings/",
+          "analytics": "smart forward",
+          "url_name": "Smart Forward",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "صرفه‌جویی در انرژی AI",
+          "url": "https://www.samsung.com/iran/home-appliances/ai-energy-saving/",
+          "analytics": "ai energy saving",
+          "url_name": "صرفه‌جویی در انرژی AI",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف سیستم‌های تهویه مطبوع",
+          "url": "https://www.samsung.com/iran/air-conditioners/",
+          "analytics": "air conditioners",
+          "url_name": "کشف سیستم‌های تهویه مطبوع",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف یخچال ها",
+          "url": "https://www.samsung.com/iran/refrigerators/",
+          "analytics": "refrigerators",
+          "url_name": "کشف یخچال ها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف لباسشویی ها",
+          "url": "https://www.samsung.com/iran/washers-and-dryers/",
+          "analytics": "washing machine",
+          "url_name": "کشف لباسشویی ها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف جاروبرقی ها",
+          "url": "https://www.samsung.com/iran/vacuum-cleaners/",
+          "analytics": "vacuum cleaner",
+          "url_name": "کشف جاروبرقی ها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "کشف وسایل آشپزی",
+          "url": "https://www.samsung.com/iran/cooking-appliances/",
+          "analytics": "cooking appliances",
+          "url_name": "کشف وسایل آشپزی",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "IT",
+      "url": "https://www.samsung.com/iran/monitors/all-monitors/",
+      "analytics": "it",
+      "url_name": "IT",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book & Laptop",
+          "url": "https://www.samsung.com/uk/computers/all-computers/",
+          "analytics": "galaxy book & laptop",
+          "url_name": "Galaxy Book & Laptop",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "مانیتورها",
+          "url": "https://www.samsung.com/iran/monitors/all-monitors/",
+          "analytics": "monitors",
+          "url_name": "مانیتورها",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Memory & Storage",
+          "url": "https://www.samsung.com/uk/memory-storage/all-memory-storage/",
+          "analytics": "memory & storage",
+          "url_name": "Memory & Storage",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Laptop Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "laptop accessories",
+          "url_name": "Laptop Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تابلو‌های هوشمند Smart Signage",
+          "url": "https://www.samsung.com/iran/business/smart-signage/",
+          "analytics": "smart signage",
+          "url_name": "تابلو‌های هوشمند Smart Signage",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تابلوی LED",
+          "url": "https://www.samsung.com/iran/business/led-signage/",
+          "analytics": "led signage",
+          "url_name": "تابلوی LED",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "تلویزیون‌های تجاری",
+          "url": "https://www.samsung.com/iran/business/commercial-tvs/",
+          "analytics": "commercial tvs",
+          "url_name": "تلویزیون‌های تجاری",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "نمایشگرهای تجاری",
+          "url": "https://www.samsung.com/iran/business/monitors/",
+          "analytics": "Business monitors",
+          "url_name": "نمایشگرهای تجاری",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Copilot+ PCs",
+          "url": "https://www.samsung.com/uk/computers/galaxy-book-copilot-plus-pcs/",
+          "analytics": "copliot + pcs",
+          "url_name": "Copilot+ PCs",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Why Odyssey Gaming Monitor",
+          "url": "https://www.samsung.com/uk/monitors/odyssey-gaming-monitor/",
+          "analytics": "Why Odyssey Gaming Monitor",
+          "url_name": "Why Odyssey Gaming Monitor",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا مانیتور با وضوح بالا",
+          "url": "https://www.samsung.com/iran/monitors/highresolution/",
+          "analytics": "why viewfinity high resolution",
+          "url_name": "چرا مانیتور با وضوح بالا",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا مانیتور هوشمند",
+          "url": "https://www.samsung.com/iran/monitors/smart-monitor/",
+          "analytics": "why smart monitor",
+          "url_name": "چرا مانیتور هوشمند",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "در انتخاب مانیتور به من کمک کنید",
+          "url": "https://www.samsung.com/iran/monitors/help-me-choose/",
+          "analytics": "help choose my monitor",
+          "url_name": "در انتخاب مانیتور به من کمک کنید",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Monitor Buying Guide",
+          "url": "https://www.samsung.com/uk/monitors/monitor-buying-guide/",
+          "analytics": "Monitor Buying Guide",
+          "url_name": "Monitor Buying Guide",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "Wearables",
+      "url": "https://www.samsung.com/iran/watches/all-watches/",
+      "analytics": "wearables",
+      "url_name": "Wearables",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "همه Galaxy Watches",
+          "url": "https://www.samsung.com/iran/watches/all-watches/",
+          "analytics": "galaxy watch",
+          "url_name": "همه Galaxy Watches",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "همه Galaxy Buds",
+          "url": "https://www.samsung.com/iran/audio-sound/all-audio-sound/",
+          "analytics": "galaxy buds",
+          "url_name": "همه Galaxy Buds",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Ring",
+          "url": "https://www.samsung.com/uk/rings/all-rings/",
+          "analytics": "galaxy ring",
+          "url_name": "Galaxy Ring",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Wearables Accessories",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?wearables+audio+smarttag",
+          "analytics": "wearables accessories",
+          "url_name": "Wearables Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Health",
+          "url": "https://www.samsung.com/iran/apps/samsung-health/",
+          "analytics": "samsung health",
+          "url_name": "Samsung Health",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا Galaxy",
+          "url": "https://www.samsung.com/iran/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "چرا Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Apps & Services",
+          "url": "https://www.samsung.com/iran/apps/",
+          "analytics": "apps and services",
+          "url_name": "Apps & Services",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "چرا Galaxy",
+          "url": "https://www.samsung.com/iran/mobile/why-galaxy/",
+          "analytics": "why galaxy",
+          "url_name": "چرا Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Switch to Galaxy",
+          "url": "https://www.samsung.com/iran/mobile/switch-to-galaxy/",
+          "analytics": "switch to galaxy",
+          "url_name": "Switch to Galaxy",
+          "children": []
+        },
+        {
+          "node_type": "L1_Banner",
+          "name": "Samsung Trade-in",
+          "url": "https://www.samsung.com/uk/trade-in/",
+          "analytics": "samsung trade-in",
+          "url_name": "Samsung Trade-in",
+          "children": []
+        }
+      ]
+    },
+    {
+      "node_type": "L0",
+      "name": "لوازم جانبی",
+      "url": "https://www.samsung.com/iran/mobile-accessories/all-mobile-accessories/?smartphones",
+      "analytics": "accessories",
+      "url_name": "لوازم جانبی",
+      "children": [
+        {
+          "node_type": "L1_Product",
+          "name": "لوازم جانبی تلفن هوشمند",
+          "url": "https://www.samsung.com/iran/mobile-accessories/all-mobile-accessories/?smartphones",
+          "analytics": "smartphone accessories",
+          "url_name": "لوازم جانبی تلفن هوشمند",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Tablet Accessories",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?tablets",
+          "analytics": "tablet accessories",
+          "url_name": "Tablet Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Watch Accessories",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?wearables",
+          "analytics": "watch accessories",
+          "url_name": "Watch Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Buds Accessories",
+          "url": "https://www.samsung.com/uk/mobile-accessories/all-mobile-accessories/?audio+phone-covers",
+          "analytics": "galaxy buds accessories",
+          "url_name": "Galaxy Buds Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Galaxy Book Accessories",
+          "url": "https://www.samsung.com/uk/computer-accessories/all-computer-accessories/",
+          "analytics": "galaxy book accessories",
+          "url_name": "Galaxy Book Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "SmartTag",
+          "url": "https://www.samsung.com/iran/mobile-accessories/all-mobile-accessories/?smarttag",
+          "analytics": "smarttag",
+          "url_name": "SmartTag",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "TV Accessories",
+          "url": "https://www.samsung.com/uk/tv-accessories/all-tv-accessories/",
+          "analytics": "tv accessories",
+          "url_name": "TV Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Audio Accessories",
+          "url": "https://www.samsung.com/uk/audio-accessories/all-audio-accessories/",
+          "analytics": "audio accessories",
+          "url_name": "Audio Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Projector Accessories",
+          "url": "https://www.samsung.com/uk/projector-accessories/all-projector-accessories/",
+          "analytics": "projector accessoreis",
+          "url_name": "Projector Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Refrigerator Accessories",
+          "url": "https://www.samsung.com/uk/refrigerators/all-refrigerators/?accessories",
+          "analytics": "refrigerator accessories",
+          "url_name": "Refrigerator Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Vacuum Cleaner Accessories",
+          "url": "https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/vacuum-cleaners/",
+          "analytics": "vacuum cleaner accessories",
+          "url_name": "Vacuum Cleaner Accessories",
+          "children": []
+        },
+        {
+          "node_type": "L1_Product",
+          "name": "Washer & Dryer Accessories",
+          "url": "https://www.samsung.com/uk/home-appliance-accessories/all-home-appliance-accessories/?washers-and-dryers",
+          "analytics": "washer & dryer accessories",
+          "url_name": "Washer & Dryer Accessories",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

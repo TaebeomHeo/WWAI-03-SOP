@@ -1,0 +1,6 @@
+python-dotenv==1.0.0
+pandas==2.3.0
+playwright==1.42.0
+beautifulsoup4==4.12.2
+openpyxl==3.1.5
+git+https://368c81909b1f3855523c89e7ab24dd13b2e61958@git.swclick.com/Orange/Zest@v2.1.2
