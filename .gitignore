@@ -1,0 +1,44 @@
+# Large Excel CGD Documentation Files (208MB)
+02.ENH/gnb/cgddocs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Results and Output
+result/
+output/
+
+# Environment files
+env.user
+.env
+
+# Claude Code
+.claude/settings.local.json
